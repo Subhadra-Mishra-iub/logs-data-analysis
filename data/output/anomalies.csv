@@ -1,0 +1,76 @@
+anomaly_type,log_date,sched_time,video_source,type_code,title_raw,duration_seconds,details
+rapid_repeat_asset,2026-03-02,20:02:00:00,1,SI,WTIU 30.1 HD BUG,1106.4666666666667,Repeated within 780.0 seconds
+rapid_repeat_asset,2026-03-02,01:59:37:28,701,GX,PROMO - LOWER-THIRD,628.0,Repeated within 119.9 seconds
+rapid_repeat_asset,2026-03-02,04:59:43:03,701,GX,PROMO - LOWER-THIRD,480.0,Repeated within 18.1 seconds
+rapid_repeat_asset,2026-03-02,05:58:35:00,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-02,11:59:08:27,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 20.0 seconds
+rapid_repeat_asset,2026-03-02,13:27:38:03,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-02,01:59:38:28,TEXT,TX,COMING THIS MARCH,568.0,Repeated within 119.9 seconds
+rapid_repeat_asset,2026-03-03,20:02:00:00,1,SI,WTIU 30.1 HD BUG,990.3333333333334,Repeated within 780.0 seconds
+rapid_repeat_asset,2026-03-03,00:58:49:00,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-03,02:59:34:29,701,GX,PROMO - LOWER-THIRD,628.0,Repeated within 150.0 seconds
+rapid_repeat_asset,2026-03-03,12:29:39:27,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-03,13:59:35:02,701,GX,PROMO - LOWER-THIRD,628.0,Repeated within 120.0 seconds
+rapid_repeat_asset,2026-03-03,18:29:26:11,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-03,22:59:35:04,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 20.0 seconds
+rapid_repeat_asset,2026-03-04,20:02:00:00,1,SI,WTIU 30.1 HD BUG,864.0333333333333,Repeated within 780.0 seconds
+rapid_repeat_asset,2026-03-04,00:28:21:00,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-04,00:58:19:00,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-04,00:58:49:00,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-04,05:58:35:00,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-04,14:27:35:03,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-04,14:28:05:03,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-04,17:57:15:00,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 20.0 seconds
+rapid_repeat_asset,2026-03-04,21:28:54:04,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 260.1 seconds
+rapid_repeat_asset,2026-03-04,23:57:35:00,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-04,22:59:09:02,PS500056,PS,GENERIC OPEN VM PS500056 VM,360.0,Repeated within 204.0 seconds
+rapid_repeat_asset,2026-03-05,20:02:00:00,1,SI,WTIU 30.1 HD BUG,3220.633333333333,Repeated within 780.0 seconds
+rapid_repeat_asset,2026-03-05,00:29:11:00,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 20.0 seconds
+rapid_repeat_asset,2026-03-05,00:57:49:00,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-05,03:58:31:00,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-05,03:59:01:00,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-05,04:57:05:00,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-05,05:58:19:28,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-05,05:58:49:28,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-05,12:28:46:01,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-05,12:29:16:01,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-05,13:57:50:04,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-05,13:59:40:03,701,GX,PROMO - LOWER-THIRD,661.0,Repeated within 110.0 seconds
+rapid_repeat_asset,2026-03-05,22:58:55:00,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-05,22:59:15:00,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 20.0 seconds
+rapid_repeat_asset,2026-03-06,20:02:00:00,1,SI,WTIU 30.1 HD BUG,1210.0,Repeated within 780.0 seconds
+rapid_repeat_asset,2026-03-06,22:02:00:00,1,SI,WTIU 30.1 HD BUG,943.2666666666668,Repeated within 490.0 seconds
+rapid_repeat_asset,2026-03-06,00:28:21:00,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-06,02:56:18:00,701,GX,PROMO - LOWER-THIRD,628.0,Repeated within 120.0 seconds
+rapid_repeat_asset,2026-03-06,05:58:20:00,701,GX,PROMO - LOWER-THIRD,629.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-06,05:58:49:29,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-06,11:57:24:29,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-06,11:57:54:29,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-06,12:27:49:25,701,GX,PROMO - LOWER-THIRD,629.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-06,12:28:09:24,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 20.0 seconds
+rapid_repeat_asset,2026-03-06,12:59:37:27,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 237.8 seconds
+rapid_repeat_asset,2026-03-06,13:59:08:05,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-06,13:59:38:05,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-06,18:58:48:29,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 20.0 seconds
+rapid_repeat_asset,2026-03-06,19:57:35:00,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-06,19:59:04:28,701,GX,PROMO - LOWER-THIRD,629.0,Repeated within 89.9 seconds
+rapid_repeat_asset,2026-03-06,19:59:34:27,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-06,21:59:35:25,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-07,00:57:38:29,701,GX,PROMO - LOWER-THIRD,629.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-07,00:58:08:28,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-07,01:57:35:00,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-07,01:59:35:00,701,GX,PROMO - LOWER-THIRD,628.0,Repeated within 120.0 seconds
+rapid_repeat_asset,2026-03-07,02:58:05:00,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-07,02:58:35:00,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-07,13:28:31:03,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-07,17:29:34:29,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 30.0 seconds
+rapid_repeat_asset,2026-03-08,23:24:40:26,1900,GX,WTIU 30.1 MAIN - PH GX,1009.0,Repeated within 602.9 seconds
+rapid_repeat_asset,2026-03-08,23:51:28:25,1900,GX,WTIU 30.1 MAIN - PH GX,101.3,Repeated within 599.0 seconds
+rapid_repeat_asset,2026-03-08,23:26:40:26,1,SI,WTIU 30.1 HD BUG,769.0,Repeated within 602.9 seconds
+rapid_repeat_asset,2026-03-08,11:29:14:19,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 45.0 seconds
+rapid_repeat_asset,2026-03-08,11:29:34:19,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 20.0 seconds
+rapid_repeat_asset,2026-03-08,23:56:59:02,701,GX,PROMO - LOWER-THIRD,628.0,Repeated within 119.9 seconds
+rapid_repeat_asset,2026-03-08,23:59:34:01,701,GX,PROMO - LOWER-THIRD,660.0,Repeated within 155.0 seconds
+rapid_repeat_asset,2026-03-08,23:24:40:26,PRE_REC_10,GX,WTIU 30.1 - PREVIOUSLY RECORDED BUG - 10 SECO,1009.0,Repeated within 602.9 seconds
+rapid_repeat_asset,2026-03-08,23:51:28:25,PRE_REC_10,GX,WTIU 30.1 - PREVIOUSLY RECORDED BUG - 10 SECO,101.3,Repeated within 599.0 seconds
+rapid_repeat_asset,2026-03-08,23:57:00:02,TEXT,TX,COMING THIS MARCH,568.0,Repeated within 119.9 seconds
